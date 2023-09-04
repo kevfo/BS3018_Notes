@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "BS3018: Virology"
+  title: "BS3018: Plant Biology"
   author: "Kevin Fo"
   date: "05/08/2023"
   chapters:
@@ -11,6 +11,7 @@ book:
     - part: "**PART I: LECTURE NOTES**"
       chapters:
         - chapters/week1.qmd
+        - chapters/week2.qmd
   sharing: [twitter, facebook]
   page-navigation: true
   repo-url: https://github.com/kevfo/BS3037_Notes/

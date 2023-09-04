@@ -1,0 +1,160 @@
+# Plant Structure and Morphology
+
+This week's lecture talks about the anatomy of plants in addition to something called the **vascular system**.  We also look at how a plant tissue called the **xylem** evolves, what makes it up, and what primary and secondary thickening (of the xylem) mean.
+
+There are just three main parts to plants:
+
+1.  Roots
+1.  Leaves
+1.  Shoots
+
+Yet, there are also many cell types - for instance:
+
+1.  "General"
+1.  Conducting
+1.  Support
+1.  Accessory tissues
+
+## Primary versus Secondary Tissues
+
+**Primary growth** in a plant refers to the plant growing in height; **secondary growth** refers to the plant becoming wider (i.e., fatter).  Different kinds of tissues are involved in both kinds of growth.
+
+## Kinds of Cells and Tissues
+
+```{r echo = F, fig.cap = 'Different Types of Plant Cells', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/cells.png')
+```
+
+The above figure shows different kinds of cells in plants:
+
+1.  **Parenchyma cells**
+
+    These cells are alive and have a very thin cell wall.  However, they are responsible for performing metabolism within the plant.
+    
+1.  **Collenchyma**
+
+    ```{r echo = F, fig.cap = 'Structure of Lignin', fig.align = 'center'}
+    knitr::include_graphics('../imgs/week2/lignin.png')    
+    ```
+
+    These cells are found in primary tissue, but their cell walls are made of a kind of sugar called **cellulose** (i.e., not lignin).  Cells with a lignified xylem (e.g., fiber and sclerenchyma cells) are usually associated with secondary (and some primary) tissues.
+    
+    ```{r echo = F, fig.cap = 'A Bundle of Celery', fig.align = 'center'}
+    knitr::include_graphics('../imgs/week2/celery.png')    
+    ```
+    
+    As an example, celery leaves are held up by the celery itself which is made out of collenchyma cells.
+
+### Silver Cells
+
+These are cells that basically move photosynthate (e.g., sugars and whatnot) and are made up of two things: sieve cells and companion cells.
+
+### Conducting and Vascular Tissue
+
+These tissues serve to move water (i.e., the xylem) and other items (i.e., the phloem) around the plant, and each tissue type serves multiple functions.
+
+#### Xylem
+
+This tissue is actually made up of many different cells and are entirely made out of dead cells when in its later stages (i.e., when the xylem reaches "maturity").
+
+The xylem also forms one continuous column from the plant's roots to its leaves.
+
+```{r echo = F, fig.cap = 'Different Types of Cells in the Xylem', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/xylem.png')
+```
+
+The cells that move water throughout the xylem (i.e., the **conducting cells**) have two kinds:
+
+1.  **Tracheids**
+
+    These are narrow cells with tapered ends.  All plants that have vascular systems have this.
+    
+1.  **Vessels**
+
+    These are found in most, but not all flowering plants.  These kinds of cells have a larger diameter.
+    
+```{r echo = F, fig.cap = 'Cross Section of a *Helianthus* Stem', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/thicken.png')
+```
+
+When the xylem thickens, it's mainly because of the secondary xylem (i.e., wood).  It grows because of thet ***vascular cambium***.
+
+### Other Tissue and Cell Types
+
+Prof. Lum lists some more:
+
+1.  The bark - this is also called the **periderm**.
+1.  Sclerenchyma - these are made out of something called **linear fibers**.
+1.  Lenticels - these cells exchange air in shoot and root surfaces.
+1.  Trichomes - these are hair-like projections that grow out of the epidermis.
+
+## Plant Anatomy and Morphology
+
+```{r echo = F, fig.cap = 'Phylogeny Tree Highlighting Parallel Evolution of Vessel-less Angiosperms', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/tree.png')
+```
+
+Some angiosperms (i.e., flowering plants) don't have vessels - that is, they don't have the xylem or phloem in their structure.  Instead, they show vessel-like elements.
+
+### Vascular Tissue in Monocots versus Dicots
+
+Dicotyledonous plants (i.e., **dicots**) are plants whose seeds have embryos with two things called **cotyledons** or seedling leaves.
+
+```{r echo = F, fig.cap = 'Cross Section of a Monocot Stem', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/monocot.png')
+```
+
+Monocotyledonous plants (i.e., **monocots**), on the contrary, are plants whose seeds have embryos that only have one cotyledon.
+
+Dicot stems have a ring-like formation because of how their vascular tissue are arranged, whereas monocot stems are more scattered. 
+
+### Leaves
+
+These plant organs have a stomata and an epidermis, layers, a vascular system (i.e., phloem and xylem), and may even have special layers to them.  There's also a ton of variation among leaves in terms of their shape and function.
+
+```{r echo = F, fig.cap = 'Stoma and Guard Cell of a Tomato Plant\'s Leaves', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/stoma.png')
+```
+
+The **epidermis** is just the outer layer of plant tissues (i.e., kinda like the outer layer of skin on humans).  The **stoma** - on the other hand - are just the pores in the epidermis of tissues that conduct photosynthesis.  The stoma has two cells: a pair of **guard cells** that are surrounded by **subsidiary cells**.
+
+#### Venation and Stomata Distribution 
+
+The organization of vascular tissue and the distribution of stomata differs between monocots and dicots in the following ways:
+
+1.  Leaves in dicot plants have veins that are net-like.  Leaves in monocot leaves have veisn that are in parallel structures.
+1.  Different stomata distribution patterns reflect the fact that venation is different in monocots and dicots.
+
+### Roots versus Shoots
+
+Roots and shoots differ in terms of how their vascular tissues are arranged.  In root tissue, the vascular tissue have protective layers - like an **endodermis** and a **root cap**.
+
+```{r echo = F, fig.cap = 'Cross Section of a Buttercup\'s Root', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/root.png')
+```
+
+However, root and shoot tissue have something called a **zone of maturation**.  The xylem and the phloem alternate in root tissue (as seen above).
+
+#### Modified Roots
+
+```{r echo = F, fig.cap = 'Modified Roots in a Freshwater Swamp Forest', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/swamp.png')
+```
+
+These are roots that have been modified to serve a specific purpose other than just anchoring the plant to the ground.  The above tree from a swamp is an example.
+
+## Morphology
+
+**Morphology** is just the study of plant structure - even though land plants are only made out of three basic things: roots, shoots, and leaves, there are a lot of variations to these things plants live in all sorts of environments.
+
+```{r echo = F, fig.cap = 'Illustration of Convergent and Divergent Evolution', fig.align = 'center'}
+knitr::include_graphics('../imgs/week2/converge.png')
+```
+
+These variations in shoots, roots, and leaves can hint at divergent and convergent evolution.
+
+**Fertile fronds** are basically leaves that have spores and give rise to the following generation (i.e., gametophytes).
+
+### Plant Homeotic Genes
+
+These are just genes that control how plant parts (e.g., roots, shoots, and leaves) develop.  It's only through their differential expression that plant parts like flowers, leaves, and whatnot form.  It's also because of this that we have so many different plants.
