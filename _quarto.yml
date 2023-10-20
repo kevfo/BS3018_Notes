@@ -16,6 +16,7 @@ book:
         - chapters/week4.qmd
         - chapters/week5.qmd
         - chapters/week6.qmd
+        - chapters/week7.qmd
   sharing: [twitter, facebook]
   page-navigation: true
   repo-url: https://github.com/kevfo/BS3037_Notes/
